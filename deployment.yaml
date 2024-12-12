@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: avinash1836/anime:naruto
+        image: avinash1836/anime:tanjiro
         ports:
         - containerPort: 80
 ---
