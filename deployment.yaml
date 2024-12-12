@@ -4,7 +4,7 @@ kind: Deployment
 metadata:
   name: my-dep
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: my-ott
